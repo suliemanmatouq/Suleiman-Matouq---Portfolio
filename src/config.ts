@@ -6,7 +6,7 @@ export const config = {
         description: "Computer Science student focused on software development, full-stack applications, and AI-powered automation. I enjoy building reliable, user-focused solutions that connect modern web technologies, backend systems, and real-world problem solving."
     },
     social: {
-        github: "suliemanmatouq ",
+        github: "suliemanmatouq",
         email: "suliemanmatouq@gmail.com",
         location: "Guelph, Canada"
     },
@@ -63,7 +63,7 @@ experiences: [
             title: "AI-Powered Email Automation Workflow",
             category: "AI / Automation",
             technologies: "Python, REST APIs, Azure OpenAI, ChatGPT API, Data Parsing",
-            image: "/images/drishti.png",
+            image: "/images/ai-email-automation.png",
             description: "Built a desktop email automation workflow using Python, REST APIs, and Azure-based AI services to process and classify high-volume mailbox data into categories such as invoices, statements, spam, and out-of-office replies."
         },
         {
@@ -71,7 +71,7 @@ experiences: [
             title: "Scalable Multi-User Backend Platform",
             category: "Backend / Cloud",
             technologies: "Spring Boot, Node.js, SQL, NoSQL, Docker, AWS, REST APIs",
-            image: "/images/gamekroy.png",
+            image: "/images/backend-platform.png",
             description: "Engineered a scalable backend platform for authenticated multi-user access with RESTful APIs, CRUD operations, filtering, pagination, validation, structured error handling, and Docker-based AWS deployment."
         },
         {
@@ -79,7 +79,7 @@ experiences: [
             title: "Full-Stack Asset Management System",
             category: "Full Stack",
             technologies: "React, Node.js, APIs, Authentication, Role-Based Access",
-            image: "/images/votechain.png",
+            image: "/images/asset-management-system.png",
             description: "Developed a full-stack web application to track assets, assignments, and inventory status across users and locations, including responsive dashboard views, search, filtering, authentication, CRUD features, and role-based access."
         }
     ],
