@@ -22,10 +22,10 @@ const Landing = ({ children }: PropsWithChildren) => {
           </div>
           <div className="landing-info">
             <h3>An</h3>
-            <h2 className="landing-info-h2">
+            <h2 className="landing-info-h2" style={{ transform: "scale(0.7)", transformOrigin: "left center" }}>
               <div className="landing-h2-1">Software Developer</div>
             </h2>
-            <h2>
+            <h2 style={{ transform: "scale(0.7)", transformOrigin: "left center" }}>
               <div className="landing-h2-info">Full-Stack & Automation</div>
             </h2>
           </div>
